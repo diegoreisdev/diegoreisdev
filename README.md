@@ -34,7 +34,7 @@
  <div align="center">
 
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegoreisdev&repo=reis-tech&theme=highcontrast)
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegoreisdev&repo=reis_system&theme=highcontrast)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegoreisdev&repo=reis_imoveis&theme=highcontrast)
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegoreisdev&repo=api_carros_usuarios&theme=highcontrast)
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegoreisdev&repo=API-ReacJS-Laravel-9&theme=highcontrast)
   
